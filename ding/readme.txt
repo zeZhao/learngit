@@ -11,5 +11,5 @@ git reset --hard HEAD^^		回退到上上一个版本
 git reset --hard HEAD~100		回退到第100次的版本
 cat ding/readme.txt			查看文本内容
 git reflog				查看命令历史
-1
-2
+git checkout -- (文件名)		撤销工作区的修改
+git reset HEAD (文件名)		撤销暂存区的修改

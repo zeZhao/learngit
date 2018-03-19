@@ -13,3 +13,5 @@ cat ding/readme.txt			查看文本内容
 git reflog				查看命令历史
 git checkout -- (文件名)		撤销工作区的修改
 git reset HEAD (文件名)		撤销暂存区的修改
+rm （文件名）			删除文件
+git checkout -- (文件名)		恢复文件

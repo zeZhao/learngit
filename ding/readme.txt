@@ -12,3 +12,4 @@ git reset --hard HEAD~100		回退到第100次的版本
 cat ding/readme.txt			查看文本内容
 git reflog				查看命令历史
 1
+2

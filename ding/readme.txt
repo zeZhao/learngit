@@ -15,3 +15,9 @@ git checkout -- (文件名)		撤销工作区的修改
 git reset HEAD (文件名)		撤销暂存区的修改
 rm （文件名）			删除文件
 git checkout -- (文件名)		恢复文件
+git branch			查看分支
+git branch <name>			创建分支
+git checkout <name>		切换分支
+git checkout -b <name>		创建+切换分支
+git merge <name>			合并莫分支到当前分支
+git branch -d <name >		删除分支
